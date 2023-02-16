@@ -1,0 +1,11 @@
+com.kaede.a03.MainApplication$MyImportSelector=\
+com.kaede.a03.MainApplication$AutoConfiguration1,\
+com.kaede.a03.MainApplication$AutoConfiguration2
+
+com.kaede.a03.MainApplication2$MyImportSelector=\
+com.kaede.a03.MainApplication2$AutoConfiguration1,\
+com.kaede.a03.MainApplication2$AutoConfiguration2
+
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.kaede.a03.MainApplication2$AutoConfiguration1,\
+com.kaede.a03.MainApplication2$AutoConfiguration2
